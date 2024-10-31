@@ -1,0 +1,78 @@
+/* =========navbar start==========*/
+.nav-item a{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    color: #BBBBCB !important;
+    position: relative;
+    left: 152px;
+    
+}
+
+.nav_button a{
+    text-decoration:  none !important;
+    color: white;
+    border: 2px solid #F4F6FC33;
+    border-radius: 41px;
+    width: 185px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* =========navbar end==========*/
+/* =========banner start==========*/
+
+.banner{
+    background: #1C1E53;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.banner h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 54px;
+    font-weight: 600;
+    color: white;
+    width: 582px;
+}
+
+.banner p{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(255, 255, 255,0.5);
+    width: 562px;
+}
+
+.banner a{
+    text-decoration:  none;
+    background: #FCD980;
+    color: #1B1C2B;
+    
+   
+    border-radius: 41px;
+    width: 185px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner h5{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.banner .info{
+    display: flex;
+    align-items: center;
+}
+/* =========banner end==========*/
